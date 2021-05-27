@@ -1,8 +1,5 @@
 Strength through struggle- Michael Choi
 I like blue- Jay Patel.
-<<<<<<< HEAD
 Live log and prosper- Spock
-=======
-Live log and prosper- Spock
-Hello - java
->>>>>>> personal
+You can do anything you want.
+
